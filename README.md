@@ -4,6 +4,7 @@ Dieses Dokument dient euch Übersicht bei der Erstellung eurer Charaktere.
 
 * Ich erwarte nicht dass ihr das Grundregelwerk kennt. Die Regeln lernen wir durchs Spiel. 
 * Es ist eine sehr kurze Zusammenfassung und soll nur ein Startpunkt sein. Wenn ihr mehr Auswahl möchtet oder euch etwas genauer interessiert helfe ich euch gerne weiter.
+* Ich stelle euch Links für ein Wiki in die Zusammenfassung. Ignoriert diese Links gerne, das Wiki dient dem vertieften Lesen, falls ihr das wollt. 
 * Wenn ihr Fragen habt meldet euch gerne.
 
 
@@ -13,80 +14,73 @@ https://dnd5e.wikidot.com/
 
 # Races
 
-<details>
-<summary>Dwarf</summary>
+Eure Rasse bietet, neben den offensichtlichen kosmetischen und kulturellen Eigenheiten, einzigartige Fähigkeiten und Veränderungen eurer Charakter-Werte. Die Rassen sind sehr "Standard Fantasy / Tolkin Fantasy" vom Stil
+<br> Ihr habt bei mir wenig Restriktionen / Vorgaben was ihr wählt. Behaltet aber im Hinterkopf dass Menschen, Zwerge und Elfen die häufigsten Einwohner der Welt sind. Die Leute denen ihr begegnet werden, abhängig von eurer Rasse, potentiell anders auf euch reagieren.
 
-**Hill Dwarf**
+### Dwarf
 
-**Mountain Dwarf**
+* Hill Dwarf
+* Mountain Dwarf
 
-</details>
-
-<details>
-<summary>Elf</summary>
-
-**High Elf**
-
-**Wood Elf**
-
-**Dark Elf (Drow)**
-
-</details>
-
-<details>
-<summary>Halfling</summary>
-
-**Lightfoot**
-
-**Stout**
-
-</details>
-
-<details>
-<summary>Human</summary>
-
-**Human Ethnicities**
+[Zwerge im Wiki](https://dnd5e.wikidot.com/lineage:dwarf)
 
 
-</details>
 
-<details>
-<summary>Dragonborn</summary>
+### Elf
 
-**Different Ancestry**
+* High Elf
+* Wood Elf
+* Dark Elf (Drow)
+
+[Elfen im Wiki](https://dnd5e.wikidot.com/lineage:elf)
+
+### Halfling
+
+* Lightfoot
+* Stout
+
+[Halflinge im Wiki](https://dnd5e.wikidot.com/lineage:halfling)
+
+### Human
+
+[Menschen im Wiki](https://dnd5e.wikidot.com/lineage:human)
 
 
-</details>
+### Dragonborn
 
-<details>
-<summary>Gnome</summary>
+* Black
+* Blue
+* Brass
+* Bronze
+* Copper
+* Gold
+* Green
+* Red
+* Silver
+* White
+
+
+[Dragonborn im Wiki](https://dnd5e.wikidot.com/lineage:dragonborn)
+
+### Gnome
 
 **Forest Gnome**
 
 **Rock Gnome**
 
-</details>
+[Gnome im Wiki](https://dnd5e.wikidot.com/lineage:gnome)
 
-<details>
-<summary>Half-Elf</summary>
+### Half-Elf
 
-**All The Same**
+[Half-Elf im Wiki](https://dnd5e.wikidot.com/lineage:half-elf)
 
-</details>
+### Half-Orc
 
-<details>
-<summary>Half-Orc</summary>
+[Half-Orc im Wiki](https://dnd5e.wikidot.com/lineage:half-orc)
 
-**All The Same**
+### Tiefling
 
-</details>
-
-<details>
-<summary>Tiefling</summary>
-
-**All The Same**
-
-</details>
+[Tiefling im Wiki](https://dnd5e.wikidot.com/lineage:tiefling)
 
 ---
 
@@ -102,461 +96,267 @@ Der Übersicht halber sind hier nur die Unterklassen aus den Grundregeln aufgef�
 
 Ein unerschütterlicher Krieger mit wilderm Kampfstil. Kann in einen Kampfrausch verfallen.
 
-**Primal Path**
+### Unterklasse / Primal Path
 
-<details>
-<summary>Path of the Berserker</summary>
+**Path of the Berserker**
 
-**All The Same**
+**Path of the Totem Warrior**
 
-</details>
-
-<details>
-<summary>Path of the Totem Warrior</summary>
-
-**All The Same**
-
-</details>
-
+[Barbarian im Wiki](https://dnd5e.wikidot.com/barbarian)
 
 ## Bard
 
 Ein inspierierender Magier dessen Macht durch seine Magie entsteht.
 
-**Bard Colleges**
+### Unterklasse / Bard Colleges
 
-<details>
-<summary>College of Lore</summary>
+**College of Lore**
 
-**All The Same**
+**College of Valor**
 
-</details>
-
-<details>
-<summary>College of Valor</summary>
-
-**All The Same**
-
-</details>
-
+[Bard im Wiki](https://dnd5e.wikidot.com/bard)
 
 ## Cleric
 
 Ein priesterlicher Champion der göttliche Magie im Dienst einer höheren Macht führt.
 
-**Divine Domain**
+Als Kleriker folgt ihr einer bestimmten Gottheit. Diese Gottheit bestimmt auf welche Unterklasse ihr Zugriff habt. Unten findet ihr eine (unvollständige) Übersicht der Götter in der Welt. Wenn euch ein Kleriker interessiert meldet euch gerne und wir machen uns gemeinsam Gedanken über die Gottheit.
+
+### Unterklasse / Divine Domain
+
+**Knowledge Domain**
+
+**Life Domain**
+
+**Light Domain**
+
+**Nature Domain**
+
+**Tempest Domain**
+
+**Trickery Domain**
+
+**War Domain**
+
+[Cleric im Wiki](https://dnd5e.wikidot.com/cleric)
 
 <details>
-<summary>Knowledge Domain</summary>
+    <summary>Liste Götter</summary>
+   
 
-**All The Same**
-
+| Deity | Alignement | Domains | Symbol |
+| --- | --- | --- | --- |
+| Auril, goddess of winter | NE | Nature, Tempest | Six-pointed snowflake |
+| Azuth, god of wizards | LN | Knowledge | Left hand pointing upward, outlined in fire |
+| Bane, god of tyranny	 | LE	| War	| Upright black right hand, thumb and fingers together |
+| Beshaba, goddess of misfortune | 	CE | 	Trickery | 	Black antlers |
+| Bhaal, god of murder | 	NE | 	Death	 | Skull surrounded by a ring of blood droplets |
+| Chauntea, goddess of agriculture	 | NG | 	Life | 	Sheaf of grain or a blooming rose over grain |
+| Cyric, god of lies	 | CE	 | Trickery | 	White jawless skull on black or purple sunburst| 
+| Deneir, god of writing	 | NG | 	Knowledge	 | Lit candle above an open eye |
+| Eldath, goddess of peace	 | NG | 	Life, Nature | 	Waterfall plunging into still pool |
+| Gond, god of craft	 | N	 | Knowledge | 	Toothed cog with four spokes |
+| Helm, god of protection	 | LN	 | Life, Light	 | Staring eye on upright left gauntlet |
+| Ilmater, god of endurance	 | LG	 | Life | 	Hands bound at the wrist with red cord |
+| Kelemvor, god of the dead	 | LN	 | Death	 | Upright skeletal arm holding balanced scales |
+| Lathander, god of birth and renewal | 	NG | 	Life, Light	 | Road traveling into a sunrise |
+| Leira, goddess of illusion	 | CN	 | Trickery	 | Point-down triangle containing a swirl of mist |
+| Lliira, goddess of joy	 | CG	 | Life	 | Triangle of three six-pointed stars |
+| Loviatar, goddess of pain	 | LE | 	Death	 | Nine-tailed barbed scourge |
+| Malar, god of the hunt	 | CE | 	Nature	 | Clawed paw |
+| Mask, god of thieves	 | CN	 | Trickery | 	Black mask |
+| Mielikki, goddess of forests	 | NG	 | Nature | 	Unicorn’s head |
+| Milil, god of poetry and song | 	NG	 | Light | 	Five-stringed harp made of leaves |
+| Myrkul, god of death	 | NE | 	Death | 	White human skull |
+| Mystra, goddess of magic	 | NG | 	Knowledge | 	Circle of seven stars, or nine stars encircling a flowing red mist, or a single star |
+| Oghma, god of knowledge	 | N	 | Knowledge | 	Blank scroll |
+| Savras, god of divination and fate	 | LN	 | Knowledge	 | Crystal ball containing many kinds of eyes |
+| Selûne, goddess of the moon	 | CG	 | Knowledge, Life | 	Pair of eyes surrounded by seven stars |
+| Shar, goddess of darkness and loss	 | NE | 	Death, Trickery | 	Black disk encircled with a border |
+| Silvanus, god of wild nature	 | N	 | Nature | 	Oak leaf |
+| Sune, goddess of love and beauty	 | CG | 	Life, Light	 | Face of a beautiful red-haired woman |
+| Talona, goddess of disease and poison	 | CE | 	Death | 	Three teardrops on a triangle |
+| Talos, god of storms | 	CE	 | Tempest | 	Three lightning bolts radiating from a central point |
+| Tempus, god of war	 | N | 	War	 | Upright flaming sword |
+| Torm, god of courage and self-sacrifice | 	LG | 	War | 	White right gauntlet |
+| Tymora, goddess of good fortune	 | CG | 	Trickery | Face-up coin |
+| Tyr, god of justice	 | LG | War	 | Balanced scales resting on a warhammer |
+| Umberlee, goddess of the sea | CE	 | Tempest | 	Wave curling left and right |
+| Waukeen, goddess of trade	 | N | 	Knowledge, Trickery	 | Upright coin with Waukeen’s profile facing left |
 </details>
-
-<details>
-<summary>Life Domain</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Light Domain</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Nature Domain</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Tempest Domain</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Trickery Domain</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>War Domain</summary>
-
-**All The Same**
-
-</details>
-
 
 
 ## Druid
 
 Ein Meister der Mächte der Natur und Tiergestalten.
 
-**Druid Circle**
+### Unterklasse / Druid Circle
 
-<details>
-<summary>Circle of the Land</summary>
+**Circle of the Land**
 
-**All The Same**
+**Circle of the Moon**
 
-</details>
-
-<details>
-<summary>Circle of the Moon</summary>
-
-**All The Same**
-
-</details>
-
-
+[Druid im Wiki](https://dnd5e.wikidot.com/druid)
 
 ## Fighter
 
 Ein Meister des Kampfes. Versiert in einer Vielzahl an Waffen und Rüstungen.
 
-**Martial Archetypes**
+### Unterklasse / Martial Archetypes
 
-<details>
-<summary>Champion</summary>
+**Champion**
 
-**All The Same**
+**Battle Master**
 
-</details>
+**Eldritch Knight**
 
-<details>
-<summary>Battle Master</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Eldritch Knight</summary>
-
-**All The Same**
-
-</details>
-
-
+[Fighter im Wiki](https://dnd5e.wikidot.com/fighter)
 
 ## Monk
 
 Ein Meister der Kampfkünste auf der Reise nach körperlicher und geistiger Perfektion.
 
-**Monastic Traditions**
+### Unterklasse / Monastic Traditions
 
-<details>
-<summary>Way of the Open Hand</summary>
+**Way of the Open Hand**
 
-**All The Same**
+**Way of Shadow**
 
-</details>
+**Way of the Four Elements**
 
-<details>
-<summary>Way of Shadow</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Way of the Four Elements</summary>
-
-**All The Same**
-
-</details>
-
-
+[Monk im Wiki](https://dnd5e.wikidot.com/monk)
 
 ## Paladin
 
 Ein magischer Krieger gebunden an einen heiligen Eid.
 
-**Sacred Oaths**
+### Unterklasse / Sacred Oaths
 
-<details>
-<summary>Oath of Devotion</summary>
+**Oath of Devotion**
 
-**All The Same**
+**Oath of the Ancients**
 
-</details>
+**Oath of Vengeance**
 
-<details>
-<summary>Oath of the Ancients</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Oath of Vengeance</summary>
-
-**All The Same**
-
-</details>
-
+[Paladin im Wiki](https://dnd5e.wikidot.com/paladin)
 
 ## Ranger
 
 Ein Krieger der Kampfkunst und Naturmagie verbindet.
 
-**Ranger Archetype**
+### Unterklasse / Ranger Archetype
 
-<details>
-<summary>Hunter</summary>
+**Hunter**
 
-**All The Same**
+**Beast Master**
 
-</details>
-
-<details>
-<summary>Beast Master</summary>
-
-**All The Same**
-
-</details>
-
+[Ranger im Wiki](hhttps://dnd5e.wikidot.com/ranger)
 
 ## Rogue
 
 Ein Schurke der Verschlagenheit und Täuschung einsetzt um Hindernisse und Gegner zu überwinden.
 
-**Roguish Archetypes**
+### Unterklasse / Roguish Archetypes
 
-<details>
-<summary>Thief</summary>
+**Thief**
 
-**All The Same**
+**Assassin**
 
-</details>
+**Arcane Trickster**
 
-<details>
-<summary>Assassin</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Arcane Trickster</summary>
-
-**All The Same**
-
-
-</details>
+[Rogue im Wiki](https://dnd5e.wikidot.com/rogue)
 
 ## Sorcerer
 
 Ein Magier der auf seine angeborenen Fähigkeiten einer Blutlinie zurückgreift.
 
-**Sorcerous Origin**
+### Unterklasse / Sorcerous Origin
 
-<details>
-<summary>Draconic Bloodline</summary>
+**Draconic Bloodline**
 
-**All The Same**
+**Wild Magic**
 
-</details>
-
-<details>
-<summary>Wild Magic</summary>
-
-**All The Same**
-
-</details>
-
+[Sorcerer im Wiki](https://dnd5e.wikidot.com/sorcerer)
 
 ## Warlock
 
 Ein Magier der seine Macht durch einen Handel mit außerweltlichen Wesen erhalten hat.
 
-**Otherworldly Patrons**
+### Unterklasse / Otherworldly Patrons
 
-<details>
-<summary>The Archfey</summary>
+**The Archfey**
 
-**All The Same**
+**The Fiend**
 
-</details>
+**The Great Old One**
 
-<details>
-<summary>The Fiend</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>The Great Old One</summary>
-
-**All The Same**
-
-</details>
-
+[Warlock im Wiki](https://dnd5e.wikidot.com/warlock)
 
 ## Wizard
 
 Ein Magier der seine Macht durch Studium der Schulen der Magie erhalten hat.
 
-**Arcane Traditions**
+### Unterklasse / Arcane Traditions
 
-<details>
-<summary>School of Abjuration</summary>
+**School of Abjuration**
 
-**All The Same**
+**School of Conjuration**
 
-</details>
+**School of Divination**
 
-<details>
-<summary>School of Conjuration</summary>
+**School of Enchantment**
 
-**All The Same**
+**School of Evocation**
 
-</details>
+**School of Illusion**
 
-<details>
-<summary>School of Divination</summary>
+**School of Necromancy**
 
-**All The Same**
+**School of Transmutation**
 
-</details>
-
-<details>
-<summary>School of Enchantment</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>School of Evocation</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>School of Illusion</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>School of Necromancy</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>School of Transmutation</summary>
-
-**All The Same**
-
-</details>
-
+[Wizard im Wiki](https://dnd5e.wikidot.com/wizard)
 
 ---
 
 # Backgrounds
 
-<details>
-<summary>Acolyte</summary>
+Backgrounds beschreiben was euer Charakter vor seiner Abenteurerkarriere gemacht hat. Hierdurch erhaltet ihr Fähigkeiten und Startequipment. Falls bei den unten stehenden Beispielen nichts dabei 
 
-**All The Same**
+**Acolyte**
+<br>[Acolyte im Wiki](https://dnd5e.wikidot.com/background:acolyte)
 
-</details>
+**Charlatan**
+<br>[Charlatan im Wiki](https://dnd5e.wikidot.com/background:charlatan)
 
-<details>
-<summary>Charlatan</summary>
+**Criminal**
+<br>[Criminal im Wiki](https://dnd5e.wikidot.com/background:criminal)
 
-**All The Same**
+**Entertainer**
+<br>[Entertainer im Wiki](https://dnd5e.wikidot.com/background:entertainer)
 
-</details>
+**Folk Hero**
+<br>[Folk Hero im Wiki](https://dnd5e.wikidot.com/background:folk-hero)
 
-<details>
-<summary>Criminal</summary>
+**Guild Artisan**
+<br>[Guild Artisan im Wiki](https://dnd5e.wikidot.com/background:guild-artisan)
 
-**All The Same**
+**Hermit**
+<br>[Hermit im Wiki](https://dnd5e.wikidot.com/background:hermit)
 
-</details>
+**Noble**
+<br>[Noble im Wiki](https://dnd5e.wikidot.com/background:noble)
 
-<details>
-<summary>Entertainer</summary>
+**Outlander**
+<br>[Outlander im Wiki](https://dnd5e.wikidot.com/background:outlander)
 
-**All The Same**
+**Sage**
+<br>[Sage im Wiki](https://dnd5e.wikidot.com/background:sage)
 
-</details>
+**Sailor**
+<br>[Sailor im Wiki](https://dnd5e.wikidot.com/background:sailor)
 
-<details>
-<summary>Folk Hero</summary>
+**Soldier**
+<br>[Soldier im Wiki](https://dnd5e.wikidot.com/background:soldier)
 
-**All The Same**
-
-</details>
-
-<details>
-<summary>Guild Artisan</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Hermit</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Noble</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Outlander</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Sage</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Sailor</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Soldier</summary>
-
-**All The Same**
-
-</details>
-
-<details>
-<summary>Urchin</summary>
-
-**All The Same**
-
-</details>
+**Urchin**
+<br>[Urchin im Wiki](https://dnd5e.wikidot.com/background:urchin)
